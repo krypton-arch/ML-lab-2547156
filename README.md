@@ -14,32 +14,49 @@ This repository is maintained for:
 
 ## Folder Structure
 
-A suggested structure for future labs is:
+Current lab repository structure:
 
 ```bash
 ML-Lab/
 ├── Lab1/
-│   ├── notebook.ipynb
-│   ├── notes.md
-│   └── outputs/
-├── Lab2/
-│   ├── notebook.ipynb
-│   ├── notes.md
-│   └── outputs/
-├── Lab3/
-│   └── ...
-├── data/
-├── images/
+│   ├── 2547156_Lab1&2.ipynb      # Combined Lab1 & Lab2 notebook
+│   ├── 2547156_Lab1&2.html       # HTML export
+│   ├── 2547156_Lab1&2.pdf        # PDF export
+│   ├── city_day.csv              # AQI data
+│   ├── crop_production.csv       # Crop production data
+│   ├── task4_aqi_distribution.png
+│   ├── task5_outlier_treatment.png
+│   ├── task6_yearly_trend.png
+│   ├── task7_monthly_aqi.png
+│   ├── task9_supporting_viz.png
+│   ├── taskA_extremes.png
+│   ├── taskB_scatter.png
+│   └── taskC_hero_chart.png
 └── README.md
 ```
 
 ## Current Labs
 
-### Lab 1
-Air quality data preprocessing and visualisation using `city_day.csv`.
+### Lab 1 & 2 (Combined)
+**Analysis:** India Air Quality & Crop Yield
 
-### Lab 2
-Crop production data preprocessing and visualisation using `crop_production.csv`.
+This combined lab investigates the relationship between air quality and agricultural output across Indian states.
+
+**Notebook:** `2547156_Lab1&2.ipynb`
+
+**Datasets:**
+- `city_day.csv` — City-level AQI readings (2015–2020), 26 cities
+- `crop_production.csv` — State-level crop production records (1997–2015)
+
+**Key Tasks:**
+- Task 1–5: Data preprocessing, missing value treatment, and outlier handling
+- Task 6–9: Exploratory analysis, temporal trends, and state-level correlations
+- Task A–C: Advanced analysis of pollution extremes and AQI-production relationships
+
+**Outputs:**
+- Visualizations: Distribution plots, temporal trends, seasonal patterns
+- Statistical analysis: Correlation analysis and state-level summaries
+- Ministerial briefing with key findings and recommendations
 
 ## Future Labs
 
