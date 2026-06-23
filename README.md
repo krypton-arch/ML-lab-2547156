@@ -24,14 +24,6 @@ ML-Lab/
 │   ├── 2547156_Lab1&2.pdf        # PDF export
 │   ├── city_day.csv              # AQI data
 │   ├── crop_production.csv       # Crop production data
-│   ├── task4_aqi_distribution.png
-│   ├── task5_outlier_treatment.png
-│   ├── task6_yearly_trend.png
-│   ├── task7_monthly_aqi.png
-│   ├── task9_supporting_viz.png
-│   ├── taskA_extremes.png
-│   ├── taskB_scatter.png
-│   └── taskC_hero_chart.png
 └── README.md
 ```
 
