@@ -1,29 +1,35 @@
 # Machine Learning Lab Repository
 
-This repository contains lab work for the **Machine Learning** course.  
-It is maintained to store notebooks, code, outputs, and related files for current and future lab experiments.
+This repository stores Machine Learning lab work for the MCA course. It contains notebooks, datasets, exported outputs, and supporting files for each lab.
 
 ## Repository Purpose
 
-This repository is maintained for:
+The repository is maintained for:
 
 - Machine learning lab experiments
 - Data preprocessing and exploratory analysis
-- Model building, evaluation, and visualization tasks
-- Submission of lab work as required in the course instructions
+- Model building, evaluation, and visualization
+- Course lab submissions and documentation
 
 ## Folder Structure
 
-Current lab repository structure:
+Current repository structure:
 
 ```bash
 ML-Lab/
 ├── Lab1/
-│   ├── 2547156_Lab1&2.ipynb      # Combined Lab1 & Lab2 notebook
-│   ├── 2547156_Lab1&2.html       # HTML export
-│   ├── 2547156_Lab1&2.pdf        # PDF export
-│   ├── city_day.csv              # AQI data
-│   ├── crop_production.csv       # Crop production data
+│   ├── 2547156_Lab1&2.ipynb
+│   ├── 2547156_Lab1&2.html
+│   ├── 2547156_Lab1&2.pdf
+│   ├── city_day.csv
+│   └── crop_production.csv
+├── Lab 3/
+│   ├── Simple_Linear_Regression_GPA_Analysis.ipynb
+│   ├── 2547156_Lab3.html
+│   ├── 2547156_Lab3.pdf
+│   ├── student_survey.csv
+│   ├── linear_regression_weights.pkl
+│   └── Department Awareness Survey (Responses).xlsx
 └── README.md
 ```
 
@@ -32,43 +38,29 @@ ML-Lab/
 ### Lab 1 & 2 (Combined)
 **Analysis:** India Air Quality & Crop Yield
 
-This combined lab investigates the relationship between air quality and agricultural output across Indian states.
+This combined lab explores the relationship between air quality and agricultural production across India.
 
-**Notebook:** `2547156_Lab1&2.ipynb`
+- **Notebook:** `Lab1/2547156_Lab1&2.ipynb`
+- **Datasets:** `city_day.csv`, `crop_production.csv`
 
-**Datasets:**
-- `city_day.csv` — City-level AQI readings (2015–2020), 26 cities
-- `crop_production.csv` — State-level crop production records (1997–2015)
+### Lab 3
+**Analysis:** Simple Linear Regression on GPA Prediction
 
-**Key Tasks:**
-- Task 1–5: Data preprocessing, missing value treatment, and outlier handling
-- Task 6–9: Exploratory analysis, temporal trends, and state-level correlations
-- Task A–C: Advanced analysis of pollution extremes and AQI-production relationships
+This lab covers data preparation, model training, evaluation, and result export for GPA prediction.
 
-**Outputs:**
-- Visualizations: Distribution plots, temporal trends, seasonal patterns
-- Statistical analysis: Correlation analysis and state-level summaries
-- Ministerial briefing with key findings and recommendations
+- **Notebook:** `Lab 3/Simple_Linear_Regression_GPA_Analysis.ipynb`
+- **Datasets:** student_survey.csv
+- **Outputs:** model weights, HTML and PDF exports
 
-## Future Labs
+## Lab Workflow
 
-Additional lab experiments will be added in separate folders as the course progresses.  
-Each lab folder should contain:
+For each lab:
 
-- The notebook file
-- Supporting code if needed
-- Output figures or tables
-- Notes or documentation required for submission
-
-## General Workflow
-
-For every lab:
-
-1. Create a separate folder for the lab.
-2. Add the notebook and related files.
-3. Commit the changes to the Git repository.
-4. Push the updates to the corresponding branch if branch-wise organisation is used.
-5. Include the final lab manual and required outputs.
+1. Create a dedicated lab folder.
+2. Add the notebook and supporting files.
+3. Version control the lab with Git.
+4. Push updates to GitHub after completing the lab.
+5. Keep each lab self-contained and easy to review.
 
 ## Tools Used
 
@@ -89,12 +81,12 @@ For every lab:
 
 ## Notes
 
-- This repository will be updated regularly with new lab experiments.
-- Each lab should remain self-contained and easy to review.
-- Code, results, and conclusions should be clearly documented.
+- This repository will be updated with future lab experiments.
+- Each lab folder should contain the notebook, data, and any exported outputs.
+- Document code, results, and conclusions clearly.
 
 ## Author
 
-**Name:** Sounak Chakraborty
-**Register Number:** Your 2547156
+**Name:** Sounak Chakraborty  
+**Register Number:** 2547156  
 **Class:** IV MCA A
