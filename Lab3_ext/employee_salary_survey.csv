@@ -1,0 +1,325 @@
+Employee ID,Age,Years of Experience,Hours per Week,Department,Education Level,Gender,City,Annual Salary
+EMP1097,47.0,27.5,49.3,Marketing,Masters,Female,Austin,123371.48
+EMP1288,42.0,18.0,49.2,Sales, Bachelors ,Male,Austin,80461.9
+EMP1283,40.0,19.5,44.0,Marketing,Masters,Male,Chicago,103741.2
+EMP1292,58.0,33.0,40.4,Marketing,Bachelors,Male,Remote,115025.08
+EMP1220,,1.5,38.5,Marketing,Bachelors,Female,Chicago,48496.64
+EMP1193,35.0,9.2,49.2,Sales,Bachelors,Female,New York,73026.48
+EMP1118,31.0,9.4,51.0,Engineering,PhD,Female,New York,101297.02
+EMP1086,25.0,1.6,40.9,Marketing,Bachelors,Male,,53440.0
+EMP1074,48.0,27.2,36.8,Marketing, Bachelors ,Female,Remote,103579.22
+EMP1281,,12.8,36.6,Sales,Bachelors,Male,Austin,80233.28
+EMP1057,27.0,0.0,39.6,Sales,Masters,Female,Seattle,
+EMP1113,39.0,20.7,47.9,Marketing,Bachelors,Male,Chicago,82159.72
+EMP1155,47.0,27.1,46.5,Sales,Bachelors,Female,Austin,110231.33
+EMP1265,130.0,20.8,42.2,Marketing,Bachelors,Female,Chicago,91620.34
+EMP1060,57.0,,39.7,Marketing,Bachelors,Female,Austin,133300.62
+EMP1238,33.0,8.6,35.3,Engineering,Bachelors,Female,Chicago,85247.97
+EMP1179,41.0,18.1,35.8,Engineering,Bachelors,Female,Austin,110635.71
+EMP1003,38.0,12.1,54.7,Engineering,Masters,Female,New York,93158.56
+EMP1110,32.0,12.1,33.9,Marketing,PhD,Male,Seattle,95688.34
+EMP1312,26.0,4.9,43.1,Sales,Bachelors,Male,New York,72139.12
+EMP1276,39.0,14.6,38.9,HR,Masters,Female,Austin,79104.87
+EMP1316,49.0,27.1,43.4,Engineering,Masters,Male,Austin,125175.26
+EMP1230,39.0,19.8,32.3,HR,Bachelors,Female,Chicago,87433.25
+EMP1125,43.0,23.7,52.2,Engineering,Bachelors,Male,Chicago,111963.35
+EMP1028,42.0,22.3,37.7,Sales,Bachelors,Male,New York,98520.74
+EMP1080,57.0,31.4,40.9,Marketing,Bachelors,Female,Remote,107904.81
+EMP1101,29.0,7.6,36.4,Finance,PhD,Female,Chicago,88668.94
+EMP1267,35.0,17.9,47.2,Finance,Bachelors,Male,,107070.93
+EMP1030,39.0,13.7,48.1,Marketing,Bachelors,Female,Chicago,83904.13
+EMP1066,56.0,34.9,37.9,HR,Bachelors,Male,Austin,125651.58
+EMP1234,40.0,14.5,41.7,Sales,Bachelors,Female,Austin,
+EMP1114,41.0,20.2,36.9,Sales,Masters,Male,New York,105144.22
+EMP1296,54.0,34.3,41.2,Engineering,Bachelors,Female,New York,147827.03
+EMP1318,57.0,33.8,43.7,Sales,Bachelors,Male,New York,133334.21
+EMP1132,25.0,,48.2,Finance,Bachelors,Female,Austin,60897.99
+EMP1310,47.0,24.2,46.7,Marketing,Masters,Female,Remote,119924.13
+EMP1272,27.0,10.8,,MARKETING,Masters,Male,Seattle,68922.83
+EMP1271,22.0,0.0,34.3,Engineering,Masters,Male,Austin,70216.22
+EMP1102,52.0,31.0,44.2,HR,Bachelors,Female,Seattle,119824.37
+EMP1089,53.0,32.5,45.4,Finance,PhD,Female,Chicago,146900.74
+EMP1104,52.0,31.4,44.7,HR,Bachelors,Female,Chicago,117777.62
+EMP1080,57.0,31.4,40.9,Marketing,Bachelors,Female,Remote,107904.81
+EMP1015,51.0,25.5,,Marketing,Masters,Male,Austin,113768.32
+EMP1176,49.0,29.1,48.4,Engineering,PhD,Male,New York,151606.98
+EMP1090,38.0,15.9,40.2,,Masters,Male,Chicago,85980.84
+EMP1073,26.0,0.4,40.8,Engineering,PhD,Female,Seattle,77553.25
+EMP1037,53.0,32.1,33.5,Engineering,Masters,Female,Austin,146012.02
+EMP1002,46.0,20.6,50.1,Sales,Bachelors,Female,New York,101409.71
+EMP1199,58.0,34.1,41.4,,Masters,Male,Remote,109353.88
+EMP1014,49.0,24.7,52.3,Sales,Masters,Male,Chicago,119990.93
+EMP1249,23.0,2.1,40.9,Engineering,Bachelors,Female,New York,65885.31
+EMP1303,56.0,33.5,44.2,Finance,Bachelors,Female,Seattle,138159.78
+EMP1139,38.0,18.7,39.2,Marketing,Bachelors,Female,Austin,88117.08
+EMP1160,59.0,35.8,36.6,HR, Bachelors ,Male,Austin,119598.33
+EMP1177,28.0,6.3,47.5,Sales,Bachelors,Male,Seattle,62050.34
+EMP1287,43.0,,47.8,Sales,Bachelors,Male,Chicago,
+EMP1065,34.0,12.3,30.7,Engineering,Bachelors,Male,Chicago,90183.59
+EMP1270,,9.5,44.4,Engineering,Masters,Male,New York,81738.24
+EMP1081,38.0,16.8,45.2,Engineering,Bachelors,Female,Remote,89648.47
+EMP1208,32.0,5.7,40.4,Marketing,Masters,Male,New York,74070.26
+EMP1148,53.0,29.8,36.5,Finance,Bachelors,Male,Chicago,122354.59
+EMP1098,46.0,25.2,43.4,Sales,Bachelors,Female,Austin,103121.21
+EMP1108,39.0,16.8,45.9,Sales,Masters,Male,Chicago,104890.24
+EMP1145,54.0,,48.8,Sales,PhD,Female,Chicago,120152.34
+EMP1084,45.0,23.9,36.8,Finance,Bachelors,Male,Remote,103362.03
+EMP1138,35.0,7.9,42.4,FINANCE,PhD,Female,Remote,75860.8
+EMP1256,47.0,20.2,250.0,Sales,Bachelors,Male,New York,107007.67
+EMP1129,46.0,27.1,46.3,Engineering,PhD,Male,New York,137534.71
+EMP1228,,20.1,43.7,SALES,Bachelors,Male,Seattle,107036.48
+EMP1070,52.0,24.8,37.4,Engineering,PhD,Female,Remote,
+EMP1242,25.0,2.2,43.4,Marketing,Bachelors,Male,New York,71075.95
+EMP1248,51.0,29.5,41.9,Engineering,Bachelors,Male,Austin,111666.76
+EMP1188,31.0,13.7,40.0,Engineering,Bachelors,Male,Austin,81379.87
+EMP1088,51.0,24.5,34.2,Sales,Bachelors,Female,Seattle,126985.35
+EMP1173,49.0,23.1,36.6,Sales,Bachelors,Male,Remote,100198.19
+EMP1268,45.0,17.3,38.6,Finance,Bachelors,Female,Chicago,100611.54
+EMP1245,25.0,0.0,42.3,Sales,Bachelors,Female,Seattle,51989.29
+EMP1018,53.0,,,Engineering,Masters,Male,Austin,138098.07
+EMP1126,25.0,2.1,50.9,Sales,Bachelors,Male,New York,73086.01
+EMP1099,27.0,2.3,45.8,Engineering,Bachelors,Male,Austin,59208.59
+EMP1020,41.0,20.3,42.8,Sales,Bachelors,Female,Austin,96947.41
+EMP1055,23.0,5.1,39.4,Sales,Bachelors,Female,New York,65992.17
+EMP1225,33.0,12.1,42.2,Marketing,Bachelors,Male,Austin,61309.34
+EMP1202,40.0,22.1,44.0,,Bachelors,Female,New York,117228.0
+EMP1223,29.0,9.9,39.6,Engineering,Masters,Female,New York,106571.85
+EMP1163,37.0,13.8,35.7,Sales,Masters,Male,Seattle,93455.29
+EMP1053,39.0,16.2,45.1,Sales,Masters,Female,New York,95468.02
+EMP1194,58.0,34.4,36.2,HR,Masters,Male,New York,135337.59
+EMP1022,28.0,2.0,51.2,Engineering,Masters,Female,Seattle,78589.99
+EMP1213,39.0,19.8,42.2,Finance,Masters,Female,Austin,106556.67
+EMP1258,28.0,3.3,48.2,Engineering,Masters,Male,Seattle,89467.23
+EMP1147,30.0,6.7,43.0,Marketing,Masters,Female,New York,74126.04
+EMP1227,44.0,19.7,42.1,Engineering,Bachelors,Female,New York,111054.76
+EMP1016,41.0,12.4,40.3,Engineering,Bachelors,Female,Chicago,86486.37
+EMP1299,22.0,1.1,44.1,Sales,PhD,Female,Chicago,67795.32
+EMP1298,32.0,10.5,41.2,Marketing,Bachelors,Female,New York,74216.21
+EMP1115,43.0,26.0,32.7,Engineering,Bachelors,Female,Seattle,117995.2
+EMP1094,56.0,34.4,30.6,Sales,Bachelors,Female,Seattle,130139.52
+EMP1294,42.0,15.5,42.6,Sales,Masters,Male,Austin,104571.5
+EMP1122,46.0,28.1,42.1,HR,Bachelors,Male,New York,113908.46
+EMP1311,47.0,23.1,46.3,Marketing,Masters,Female,,118191.64
+EMP1091,52.0,32.4,36.9,SALES,Bachelors,Female,Remote,112822.05
+EMP1200,35.0,14.1,48.1,Engineering,PhD,Male,Chicago,113874.92
+EMP1274,37.0,16.6,41.3,Finance,Bachelors,Male,Austin,92556.71
+EMP1174,48.0,26.8,43.7,Engineering,Bachelors,Female,Remote,128174.8
+EMP1141,30.0,9.2,50.4,HR,Bachelors,Female,Austin,52299.95
+EMP1304,42.0,21.8,47.8,Finance,Bachelors,Male,Chicago,110871.27
+EMP1266,38.0,13.6,40.4,Engineering,Bachelors,Male,Austin,93967.45
+EMP1024,51.0,27.4,50.3,Sales,Masters,Female,Seattle,114885.46
+EMP1273,58.0,35.3,42.5,Engineering,Bachelors,Female,Chicago,150076.28
+EMP1240,27.0,2.6,39.1,Engineering,Bachelors,Female,New York,77362.9
+EMP1269,44.0,16.5,37.7,Engineering,Bachelors,Female,Remote,91752.91
+EMP1207,58.0,37.3,37.5,Engineering,Bachelors,Male,Remote,134143.81
+EMP1062,35.0,10.0,43.6,Marketing,Bachelors,Male,Remote,62810.2
+EMP1264,59.0,36.5,40.0,Engineering,Bachelors,Female,New York,163055.77
+EMP1078,43.0,21.1,37.4,HR,Bachelors,Male,Chicago,86823.29
+EMP1153,33.0,12.7,,Finance,Bachelors,Female,Seattle,88968.08
+EMP1050,50.0,29.7,43.9,HR,Masters,Male,Remote,111015.99
+EMP1150,54.0,29.3,,Sales,Masters,Female,Austin,134162.24
+EMP1111,51.0,24.3,30.8,Engineering,Masters,Female,Austin,132444.21
+EMP1184,40.0,19.6,43.3,Finance,Bachelors,Male,New York,98383.21
+EMP1154,38.0,18.2,51.0,Sales,Bachelors,Male,New York,100961.25
+EMP1221,39.0,15.9,46.8,HR,Masters,Male,Remote,62811.51
+EMP1172,51.0,26.6,37.8,Engineering,Bachelors,Female,Remote,115454.59
+EMP1052,35.0,13.3,46.1,Finance,Bachelors,Male,New York,98127.89
+EMP1222,48.0,27.7,40.2,HR,Masters,Male,Seattle,110874.91
+EMP1313,32.0,9.9,46.4,Sales, Masters ,Male,Remote,72606.42
+EMP1061,50.0,23.3,39.9,Marketing,Masters,Male,New York,113186.33
+EMP1212,51.0,32.9,51.5,Finance,Masters,Female,New York,148255.34
+EMP1216,25.0,0.2,42.7,Marketing,PhD,Female,Chicago,63776.16
+EMP1293,34.0,13.2,37.7,Engineering,Masters,Male,Chicago,92999.04
+EMP1069,39.0,23.0,37.2,Marketing,Bachelors,Male,New York,102434.82
+EMP1036,54.0,30.8,41.6,HR,Masters,Female,Austin,123774.54
+EMP1040,28.0,6.2,39.4,HR,Masters,Female,Austin,64738.25
+EMP1235,49.0,26.4,42.4,Sales,Masters,Female,Chicago,109708.72
+EMP1011,59.0,39.4,44.6,HR,Masters,Male,New York,146213.65
+EMP1280,32.0,8.5,42.3,Sales,Bachelors,Female,Chicago,65537.87
+EMP1127,51.0,27.2,47.7,Finance,Masters,Male,Seattle,132521.59
+EMP1046,38.0,13.9,46.2,Sales,Bachelors,Male,Austin,84196.37
+EMP1159,51.0,27.1,41.0,Sales,Masters,Female,New York,137803.55
+EMP1236,47.0,23.5,38.5,Marketing,Masters,Male,New York,116914.15
+EMP1128,43.0,21.1,,Engineering,Bachelors,Female,Remote,89805.47
+EMP1007,48.0,28.6,40.6,Sales,Bachelors,Male,Remote,118751.76
+EMP1282,47.0,25.4,38.2,Finance,Bachelors,Male,New York,133872.59
+EMP1206,51.0,24.4,38.2,Finance,Bachelors,Female,Seattle,100848.87
+EMP1241,44.0,22.7,41.8,Finance,Bachelors,Male,New York,116699.26
+EMP1231,54.0,33.6,45.3,Marketing,Masters,Female,New York,140117.63
+EMP1008,29.0,8.9,41.1,HR,PhD,Male,New York,83939.68
+EMP1027,53.0,30.4,43.6,HR,Bachelors,Female,Chicago,114213.91
+EMP1285,57.0,37.3,38.9,Engineering,Bachelors,Male,Austin,150819.01
+EMP1058,50.0,29.5,46.0,Engineering,Bachelors,Female,Seattle,137910.5
+EMP1226,52.0,33.1,43.4,SALES,Bachelors,Female,New York,138695.67
+EMP1181,27.0,,43.1,HR,Masters,Male,Austin,50762.88
+EMP1048,47.0,26.5,53.9,Sales,Bachelors,Male,Austin,108150.6
+EMP1170,26.0,1.0,47.1,Finance,Bachelors,Male,New York,55127.43
+EMP1031,30.0,8.8,40.4,Sales,Bachelors,Male,Seattle,77953.64
+EMP1001,51.0,27.5,29.9,HR,Masters,Female,Chicago,116160.94
+EMP1186,28.0,,38.9,Sales,Bachelors,Female,Seattle,
+EMP1013,50.0,26.4,45.5,Finance,Bachelors,Male,Remote,108666.71
+EMP1009,25.0,3.4,36.4,Marketing,Bachelors,Female,Seattle,58525.31
+EMP1146,23.0,2.9,42.1,Marketing,Bachelors,Male,Seattle,52073.39
+EMP1301,53.0,,42.4,Sales,Masters,Female,Seattle,119559.6
+EMP1095,32.0,8.8,34.5,Sales,Bachelors,Male,Chicago,68857.89
+EMP1034,55.0,29.9,37.5,Engineering,Masters,Male,Austin,134671.39
+EMP1096,31.0,5.0,37.4,Sales,PhD,Female,Chicago,75768.05
+EMP1314,31.0,9.5,44.5,Sales,Bachelors,Female,Chicago,65161.37
+EMP1261,28.0,2.6,33.5,Sales,Masters,Male,Austin,66228.51
+EMP1171,25.0,0.0,42.2,Engineering,Bachelors,Male,Seattle,65219.79
+EMP1259,44.0,25.3,39.8,Finance,PhD,Female,Chicago,126753.88
+EMP1217,25.0,5.9,43.8,Engineering,Bachelors,Male,Seattle,69821.97
+EMP1168,34.0,7.9,47.0,Finance,Bachelors,Male,Remote,66687.78
+EMP1045,58.0,33.4,35.4,Finance,Bachelors,Male,Austin,140591.15
+EMP1161,47.0,24.9,41.2,HR,Bachelors,Female,Chicago,98618.17
+EMP1253,34.0,13.3,46.7,,Bachelors,Female,New York,95680.22
+EMP1032,25.0,8.6,33.5,Finance,PhD,Male,,91221.7
+EMP1077,30.0,10.6,37.1,Sales,Masters,Male,Chicago,94714.44
+EMP1291,,13.5,32.6,Sales,PhD,Female,Chicago,88048.04
+EMP1133,43.0,22.3,45.2,Finance,Bachelors,Female,New York,107783.07
+EMP1144,59.0,35.1,43.3,Marketing,Masters,Female,New York,140860.85
+EMP1156,26.0,3.2,42.1,Sales,Bachelors,Male,Austin,61587.37
+EMP1063,58.0,34.3,40.8,Engineering,Bachelors,Male,New York,145659.57
+EMP1082,28.0,11.6,41.9,Marketing,PhD,Male,Austin,88424.04
+EMP1059,47.0,,49.5,Engineering,Masters,Male,New York,139434.92
+EMP1254,47.0,26.9,36.4,Engineering,Masters,Male,Seattle,141849.38
+EMP1143,37.0,14.3,48.8,Sales,Bachelors,Male,New York,88725.57
+EMP1041,50.0,22.0,29.2,Finance,Bachelors,Male,Austin,109513.15
+EMP1232,22.0,1.4,37.1,Sales,Masters,Male,Chicago,63520.1
+EMP1164,37.0,15.6,44.6,SALES,Masters,Male,Remote,83900.75
+EMP1109,48.0,21.3,46.0,Engineering,Masters,Female,New York,128644.25
+EMP1300,35.0,16.4,40.8,Sales,Bachelors,Male,New York,84414.4
+EMP1246,50.0,-5.0,32.5,Sales,Masters,Male,Chicago,121224.46
+EMP1121,47.0,25.2,37.5,HR,Bachelors,Female,Seattle,104010.31
+EMP1302,22.0,4.1,42.0,, Masters ,Male,New York,68484.58
+EMP1051,29.0,6.3,41.2,Sales,Bachelors,Male,Austin,60841.25
+EMP1056,42.0,18.3,39.8,Sales,Bachelors,Female,Chicago,93443.77
+EMP1262,33.0,15.9,37.8,Engineering,PhD,Male,Remote,101938.42
+EMP1158,41.0,18.6,42.2,Marketing,Bachelors,Female,New York,101595.52
+EMP1085,48.0,24.1,41.9,Sales,Masters,Male,Remote,115653.27
+EMP1120,38.0,15.8,40.1,Sales, Bachelors ,Male,New York,92927.42
+EMP1307,43.0,23.6,44.9,Sales,Bachelors,Female,Seattle,102136.92
+EMP1309,26.0,3.5,41.6,Sales,Bachelors,Female,Chicago,59259.1
+EMP1210,31.0,6.2,51.2,Sales,Bachelors,Male,Seattle,72288.84
+EMP1306,33.0,12.6,43.5,Sales,Bachelors,Male,Chicago,86877.71
+EMP1237,38.0,13.3,46.2,Marketing,Masters,Female,Austin,93361.46
+EMP1087,33.0,12.7,35.9,Engineering,PhD,Female,Austin,101784.37
+EMP1297,38.0,15.9,51.4,Finance, Masters ,Female,Chicago,103324.86
+EMP1165,52.0,30.6,44.0,HR,Bachelors,Female,New York,109188.26
+EMP1131,43.0,17.1,44.2,Marketing,Bachelors,Female,Remote,79660.87
+EMP1319,51.0,23.3,27.3,Engineering,Bachelors,Male,Seattle,126960.37
+EMP1105,51.0,28.5,,HR,PhD,Male,New York,124571.21
+EMP1076,34.0,17.2,47.2,Engineering,Masters,Male,Chicago,107377.38
+EMP1182,40.0,12.8,41.0,Engineering,Bachelors,Female,New York,95127.2
+EMP1049,51.0,26.5,44.1,Marketing,Masters,Male,Austin,121737.8
+EMP1244,45.0,19.4,45.6,Finance,Bachelors,Male,Chicago,95932.64
+EMP1005,54.0,32.1,32.3,Sales,Masters,Male,Chicago,124774.86
+EMP1017,,3.5,41.3,Finance,Masters,Male,Austin,61945.26
+EMP1093,36.0,15.6,47.6,Finance,Masters,Male,Remote,97604.96
+EMP1116,23.0,1.8,42.5,HR, Bachelors ,Male,Chicago,38975.24
+EMP1295,41.0,19.3,39.1,Engineering,Bachelors,Male,Remote,101374.61
+EMP1106,51.0,26.6,43.4,HR,Bachelors,Male,New York,106125.28
+EMP1187,36.0,13.1,43.6,HR,Masters,Male,Austin,76466.74
+EMP1162,37.0,15.3,38.3,HR,Bachelors,Male,New York,81553.29
+EMP1134,52.0,28.3,45.7,Engineering,PhD,Female,New York,159429.48
+EMP1263,57.0,37.1,,SALES,Masters,Female,Remote,139869.41
+EMP1214,50.0,24.3,50.8,Engineering,Bachelors,Female,Seattle,111107.68
+EMP1190,47.0,26.0,43.4,HR,Masters,Male,Remote,106973.19
+EMP1064,37.0,15.3,46.8,Sales,Bachelors,Male,Austin,86758.05
+EMP1026,37.0,11.9,44.9,Sales,Masters,Male,Chicago,88643.9
+EMP1243,46.0,23.9,37.0,Engineering,Bachelors,Male,Austin,110102.55
+EMP1169,22.0,1.3,47.3,Engineering,PhD,Female,Remote,66607.88
+EMP1180,57.0,38.7,,Marketing,Bachelors,Female,Chicago,128333.58
+EMP1100,53.0,,36.3,Finance,Bachelors,Male,Austin,128622.64
+EMP1197,26.0,7.1,42.1,Engineering,Bachelors,Female,Seattle,78427.56
+EMP1209,51.0,27.4,49.1,Sales,Bachelors,Male,New York,118463.28
+EMP1135,33.0,7.4,45.2,Engineering,Bachelors,Female,Seattle,84921.12
+EMP1277,51.0,23.0,52.3,Sales,PhD,Female,New York,117522.31
+EMP1305,27.0,5.1,50.2,Sales,PhD,Female,Chicago,86427.46
+EMP1286,28.0,9.6,46.9,Finance,Masters,Male,Remote,86085.26
+EMP1198,34.0,7.2,42.2,Engineering,Masters,Female,New York,95149.12
+EMP1117,27.0,2.7,46.7,Finance,Masters,Female,New York,68092.17
+EMP1166,34.0,10.8,33.1,HR,Bachelors,Female,Remote,59127.56
+EMP1255,27.0,6.5,36.1,Engineering,PhD,Male,Remote,83865.77
+EMP1136,44.0,24.7,43.7,HR,Bachelors,Female,Seattle,106940.29
+EMP1029,38.0,17.4,42.9,Marketing,Masters,Male,New York,100588.25
+EMP1079,47.0,25.0,44.8,Finance,Bachelors,Male,Austin,113968.95
+EMP1204,39.0,17.8,36.4,HR,Bachelors,Male,Remote,81507.71
+EMP1140,59.0,32.8,35.6,Engineering,Bachelors,Female,Chicago,136378.75
+EMP1157,43.0,23.9,43.2,Engineering,PhD,Female,New York,141537.95
+EMP1131,43.0,17.1,44.2,Marketing,Bachelors,Female,Remote,79660.87
+EMP1039,46.0,20.8,44.4,Finance,Bachelors,Female,Remote,100958.78
+EMP1178,56.0,32.6,41.3,HR,Bachelors,Female,Austin,110108.38
+EMP1205,32.0,11.2,40.1,Sales,Masters,Female,Chicago,86079.17
+EMP1215,32.0,12.4,41.5,Engineering,Bachelors,Male,Chicago,83750.76
+EMP1239,45.0,22.0,40.0,Engineering,Masters,Male,Seattle,121226.22
+EMP1043,35.0,8.3,43.4,Marketing,PhD,Male,Seattle,81075.19
+EMP1054,40.0,13.0,48.3,Marketing,Bachelors,Male,New York,77807.82
+EMP1308,33.0,8.6,36.2,Marketing,Bachelors,Male,Austin,62982.37
+EMP1035,24.0,0.0,40.3,Marketing,Bachelors,Male,Seattle,52142.92
+EMP1124,54.0,31.3,36.9,HR,Bachelors,Female,Chicago,116696.61
+EMP1142,32.0,8.3,50.6,Engineering,Bachelors,Female,Chicago,77840.94
+EMP1110,32.0,12.1,33.9,Marketing,PhD,Male,Seattle,95688.34
+EMP1284,38.0,10.4,44.8,HR,PhD,Male,Remote,82423.54
+EMP1107,47.0,22.6,42.8,Sales,Masters,Female,Remote,99191.56
+EMP1012,49.0,26.4,34.5,Engineering,Bachelors,Male,Seattle,130191.43
+EMP1047,,33.5,43.7,HR,Bachelors,Male,Remote,102629.0
+EMP1203,48.0,24.6,49.8,Engineering,Masters,Female,Austin,128604.86
+EMP1278,24.0,3.4,40.9,Finance,Masters,Female,New York,76014.31
+EMP1119,26.0,0.6,44.6,Engineering,Masters,Female,Austin,63225.14
+EMP1021,,16.0,40.0,Engineering,Bachelors,Female,New York,93260.0
+EMP1083,53.0,27.9,45.5,Sales,PhD,Female,Austin,136859.54
+EMP1130,43.0,19.3,45.2,Sales,Masters,Male,New York,98778.97
+EMP1229,28.0,1.7,44.1,HR,Bachelors,Female,New York,53032.94
+EMP1317,49.0,29.1,40.2,HR,PhD,Male,New York,128183.88
+EMP1123,39.0,16.1,40.5,Engineering,Bachelors,Female,Austin,99862.64
+EMP1033,,20.4,41.9,Sales,PhD,Female,Seattle,114291.8
+EMP1004,38.0,9.5,40.0,Finance,PhD,Female,Seattle,
+EMP1019,39.0,14.1,33.3,Engineering,Bachelors,Male,Austin,90357.83
+EMP1219,56.0,35.7,46.3,Marketing,Bachelors,Female,Seattle,138554.12
+EMP1123,39.0,16.1,40.5,Engineering,Bachelors,Female,Austin,99862.64
+EMP1149,24.0,0.7,44.0,Finance,Masters,Female,Austin,67860.53
+EMP1224,49.0,25.9,46.5,Engineering,Bachelors,Female,Remote,110434.74
+EMP1247,37.0,16.6,32.2,Finance,Bachelors,Female,Austin,85163.63
+EMP1289,39.0,12.4,44.6,Finance,Bachelors,Male,Remote,75457.56
+EMP1151,32.0,8.1,35.5,Engineering,Masters,Male,Seattle,88902.54
+EMP1233,50.0,30.7,34.8,Engineering,Bachelors,Male,Chicago,142210.75
+EMP1010,42.0,17.0,44.9,HR,PhD,Male,Chicago,95277.61
+EMP1279,25.0,3.7,35.6,Engineering,Masters,Male,,68537.73
+EMP1071,29.0,8.9,41.0,Engineering,Bachelors,Male,Austin,80551.43
+EMP1252,29.0,8.1,43.1,Marketing,Bachelors,Female,Chicago,74631.14
+EMP1092,53.0,32.4,41.5,Finance,Bachelors,Male,Remote,116028.29
+EMP1192,45.0,17.3,39.6,HR,Masters,Male,Chicago,81280.78
+EMP1257,25.0,0.5,43.4,Engineering,Masters,Male,Austin,71727.92
+EMP1315,47.0,24.2,48.0,Engineering,Bachelors,Male,New York,126646.04
+EMP1195,25.0,8.0,31.4,Sales,Masters,Female,Austin,81322.55
+EMP1137,23.0,3.0,33.1,Engineering,PhD,Male,Austin,74838.36
+EMP1260,52.0,30.9,29.5,Sales,Masters,Male,Seattle,135913.33
+EMP1038,32.0,13.2,33.9,Sales,Bachelors,Male,Austin,79041.88
+EMP1201,56.0,35.1,28.6,Engineering,Bachelors,Male,Remote,125483.96
+EMP1290,52.0,26.5,48.8,Sales,Bachelors,Male,Chicago,116911.44
+EMP1189,33.0,12.7,43.2,Sales,Bachelors,Female,Chicago,83199.11
+EMP1251,40.0,19.8,41.9,Engineering,Bachelors,Female,Chicago,101101.62
+EMP1112,43.0,18.8,47.0,Engineering,PhD,Female,New York,142278.96
+EMP1183,48.0,22.3,39.1,Engineering,Masters,Female,Seattle,124411.41
+EMP1152,56.0,33.4,41.7,HR,PhD,Male,Seattle,136848.65
+EMP1191,45.0,24.0,36.3,Engineering,Masters,Male,Seattle,123762.14
+EMP1044,24.0,5.1,38.4,Sales,Masters,Male,New York,63057.1
+EMP1275,40.0,18.1,49.9,HR,Masters,Female,Remote,92589.0
+EMP1006,25.0,2.3,40.4,Engineering,Masters,Male,Seattle,68838.42
+EMP1250,28.0,5.5,41.5,,Bachelors,Male,Austin,60222.93
+EMP1075,40.0,17.5,41.7,Finance,Masters,Male,New York,114671.69
+EMP1000,25.0,2.8,36.8,HR,Masters,Female,Seattle,60441.56
+EMP1068,24.0,0.0,30.4,Engineering,Bachelors,Female,Seattle,57293.24
+EMP1167,28.0,5.7,41.4,Sales,Masters,Male,,71782.75
+EMP1218,38.0,,57.9,HR,Bachelors,Male,Austin,76124.46
+EMP1042,48.0,26.3,45.9,Sales,Masters,Male,Austin,125385.84
+EMP1072,39.0,16.8,47.6,Engineering,Masters,Male,Seattle,125448.05
+EMP1023,57.0,32.7,41.1,Marketing,Bachelors,Female,Seattle,126726.87
+EMP1185,38.0,15.1,39.5,HR,PhD,Female,Seattle,94603.51
+EMP1103,22.0,3.7,42.3,Finance,Bachelors,Female,Chicago,54920.47
+EMP1211,49.0,,40.3,Finance,Masters,Male,Chicago,126380.66
+EMP1067,36.0,7.3,38.1,Finance,Bachelors,Female,Chicago,70761.16
+EMP1025,46.0,27.0,36.5,Finance,Bachelors,Female,New York,114646.86
+EMP1196,35.0,15.9,32.7,Sales,Masters,Female,Remote,80405.53
+EMP1175,39.0,15.8,43.9,Engineering,Bachelors,Female,Austin,98442.47
