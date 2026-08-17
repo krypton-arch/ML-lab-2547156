@@ -1,4 +1,4 @@
-﻿# Machine Learning Labs Repository
+# Machine Learning Labs Repository
 
 This repository contains the machine learning lab work completed for the MCA course. It includes notebooks, datasets, exported reports, and supporting files for each practical assignment.
 
@@ -58,6 +58,22 @@ ML-Labs/
 ├── Lab6/
 │   ├── Lab_LogReg_vs_KNN_Breast_Cancer.ipynb
 │   └── 2547156_Lab6.pdf
+├── Lab7/
+│   ├── Lab7_Decision_Tree_Iris.ipynb
+│   └── 2547156_Lab7.pdf
+├── Lab8/
+│   ├── PlayTennis_CategoricalNB.ipynb
+│   ├── PlayTennis_CategoricalNB.html
+│   ├── PlayTennis.csv
+│   └── 2547156_Lab8.pdf
+├── Lab9/
+│   ├── lab9_svm_pca.ipynb
+│   └── 2547156_Lab9.pdf
+├── Lab10/
+│   ├── Lab10_XOR_MLP.ipynb
+│   ├── Lab10_XOR_MLP.html
+│   ├── lab10.py
+│   └── Lab10_2547156.html
 └── README.md
 ```
 
@@ -108,6 +124,35 @@ Focus: Comparison of logistic regression and KNN for breast cancer classificatio
 Contents:
 - Notebook for model comparison
 - PDF report
+
+### Lab7
+Focus: Decision Tree classification on the Iris dataset.
+
+Contents:
+- Notebook for Decision Tree modeling
+- PDF report
+
+### Lab8
+Focus: Categorical Naive Bayes classification for the PlayTennis dataset.
+
+Contents:
+- Notebook and HTML report for Naive Bayes modeling
+- PlayTennis dataset
+- PDF report
+
+### Lab9
+Focus: Support Vector Machine (SVM) and Principal Component Analysis (PCA).
+
+Contents:
+- Notebook for SVM and PCA modeling
+- PDF report
+
+### Lab10
+Focus: Multi-Layer Perceptron (MLP) for the XOR problem.
+
+Contents:
+- Notebook and Python script for MLP implementation
+- HTML reports
 
 ## Tools Used
 
